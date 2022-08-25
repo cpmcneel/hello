@@ -9,7 +9,7 @@
 
     int main(int argc, char **argv) {
 
-    printf("Connor McNeel!\n");
+    printf("Connor McNeel!!\n");
     printf("Computer Science\n");
 
     return 0;
