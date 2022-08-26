@@ -11,6 +11,8 @@
 
     printf("Connor McNeel!!\n");
     printf("I'm a computer science major\n");
+    printf("Emir Ferzan\n");
+    printf("My major is computer science too!\n");
 
     return 0;
 }
